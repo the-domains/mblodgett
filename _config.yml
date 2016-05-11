@@ -1,0 +1,28 @@
+name: mblodgett
+favicon: null
+layout_spectrum: 0.8356759012676775
+typography_spectrum: 0.07745060487650335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4434466341044754
+  lightness: 0.16642524278722703
+  saturation: 0.5367361076641828
+  rhythmicContrast: 0.24991198652423918
+purpose: []
